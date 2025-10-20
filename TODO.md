@@ -1,0 +1,9 @@
+- [x] Add 5th swiper-slide for discover5.jpg with title "Santorini" and description "20 tours available"
+- [x] Update alt attributes for all discover images to proper descriptions
+- [x] Add more place cards to the "Choose Your Place" section (e.g., 2 more cards with new images and details)
+- [x] Update alt attributes for all place images to proper descriptions
+- [x] Add 2 more place cards to the "Choose Your Place" section (e.g., Paris and Tokyo with new images and details)
+- [x] Update alt attributes for the new place images to proper descriptions
+- [x] Add 2 more swiper slides to the "Discover the most attractive places" section (e.g., Maldives and Dubai with new images and details)
+- [x] Update alt attributes for the new discover images to proper descriptions
+- [x] Add a testimonials section after the places section with customer reviews and images
